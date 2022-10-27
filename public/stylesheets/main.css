@@ -3,7 +3,7 @@
   color: white;
   padding-bottom: 80px; }
   .jumbotron .btn-primary {
-    background: #845ac7;
+    background: #845ac7;-
     border-color: #845ac7; }
     .jumbotron .btn-primary:hover {
       background: #7646c1; }
@@ -24,4 +24,8 @@
     border: 2px solid white; }
     .jumbotron .lang-logo img {
       max-width: 100%; }
-
+.pref-center-field-item .slds-text-heading_large{
+  color: #647868;
+  font-size: 18px;
+  font-weight: bold;
+}
