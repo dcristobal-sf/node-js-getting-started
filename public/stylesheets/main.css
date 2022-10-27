@@ -25,7 +25,15 @@
     .jumbotron .lang-logo img {
       max-width: 100%; }
 .pref-center-field-item .slds-text-heading_large{
-  color: #647868;
+  color: #532F8C;
+  font-size: 20px;
+  font-weight: bold;
+}
+.pref-center-field-item .slds-text-heading_medium{
+  color: #B01302;
   font-size: 18px;
   font-weight: bold;
+}
+.pref-center-field-item .slds-p-bottom_x-small{
+  color: #7646C1;
 }
