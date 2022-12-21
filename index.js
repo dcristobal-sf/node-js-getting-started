@@ -9,7 +9,7 @@ express()
   .set('view engine', 'ejs')
   .get('/', (req, res) => 
        {
-        res.locals.title = 1234
+        res.locals.title = 'SF Preference Center Sample'
         res.render('pages/index')
        })
   .listen(PORT, () => console.log(`Listening on ${ PORT }`))
